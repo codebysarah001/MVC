@@ -54,6 +54,18 @@ namespace Task3.Controllers
             }
         }
 
+        [HttpPost]
+        public ActionResult SubmitContactForm(string Name, string PhoneNumber, string Gender, string Country, string[] Interests)
+        {
+            ViewBag.Name = Name;
+            ViewBag.PhoneNumber = PhoneNumber;
+            ViewBag.Gender = Gender;
+            ViewBag.Country = Country;
+            ViewBag.Interests = Interests;
+
+            return View("Contact");
+        }
+
         public ActionResult Logout()
         {
             Session.Clear();
