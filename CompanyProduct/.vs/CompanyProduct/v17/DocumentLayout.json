@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -59,8 +59,7 @@
               "RelativeToolTip": "CompanyProduct\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T08:48:02.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T08:48:02.156Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "CompanyProduct\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T08:47:15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T08:47:15Z"
             },
             {
               "$type": "Document",
@@ -83,7 +81,7 @@
               "RelativeDocumentMoniker": "CompanyProduct\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\CompanyProduct\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "CompanyProduct\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T08:46:16.886Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\CompanyProduct\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "CompanyProduct\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-28T08:44:32.487Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-07-28T08:44:32.487Z"
             }
           ]
         }
