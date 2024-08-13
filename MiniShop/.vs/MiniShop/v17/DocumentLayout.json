@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\MiniShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|c:\\users\\orange\\source\\repos\\minishop\\minishop\\views\\user\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\user\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|c:\\users\\orange\\source\\repos\\minishop\\minishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|c:\\users\\orange\\source\\repos\\minishop\\minishop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|c:\\users\\orange\\source\\repos\\minishop\\minishop\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE70F86-103A-45C1-A754-9C55F679339C}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Views\\User\\Shop.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\User\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Views\\User\\Shop.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\User\\Shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:36:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:27:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MiniShop\\MiniShop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:58:26.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

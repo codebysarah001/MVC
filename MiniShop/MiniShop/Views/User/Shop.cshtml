@@ -1,0 +1,25 @@
+﻿@model List<Dictionary<string, string>>
+
+@{
+    ViewBag.Title = "Shop";
+}
+
+<h2>Shop</h2>
+
+<hr />
+
+@if (Model != null && Model.Count > 0)
+{
+    foreach (var product in Model)
+    {
+        <div>
+            <h3>@product["Name"]</h3>
+            <p>Price: $@product["Price"]</p>
+            <img src="@product["Image"]" alt="@product["Name"]" style="width:200px;height:auto;" />
+        </div>
+    }
+}
+else
+{
+    <p>No products available!</p>
+}

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\usertask\\usertask\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\usertask\\usertask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\usertask\\usertask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\usertask\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\usertask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\usertask\\usertask\\views\\user\\resetpasswordt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\views\\user\\resetpasswordt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\usertask\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\usertask\\usertask\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\usertask\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922B17DE-4E1E-47EC-AE0F-EA1D16F539C9}|UserTask\\UserTask.csproj|solutionrelative:usertask\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Models\\Model1.tt",
+              "RelativeDocumentMoniker": "UserTask\\Models\\Model1.tt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Models\\Model1.tt",
+              "RelativeToolTip": "UserTask\\Models\\Model1.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-01T14:08:47.072Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -40,57 +56,38 @@
               "RelativeDocumentMoniker": "UserTask\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Models\\User.cs",
               "RelativeToolTip": "UserTask\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T22:16:48.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-07-29T22:16:48.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResetPasswordt.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Views\\User\\ResetPasswordt.cshtml",
-              "RelativeDocumentMoniker": "UserTask\\Views\\User\\ResetPasswordt.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Views\\User\\ResetPasswordt.cshtml",
-              "RelativeToolTip": "UserTask\\Views\\User\\ResetPasswordt.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T22:06:15.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "UserTask\\Views\\User\\Profile.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Views\\User\\Profile.cshtml",
               "RelativeToolTip": "UserTask\\Views\\User\\Profile.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAcAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:51:39.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:51:39.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserTask\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserTask\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAuwGQAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T11:37:23.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\UserTask\\UserTask\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "UserTask\\Views\\User\\Index.cshtml",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "UserTask\\Views\\User\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T11:41:20.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T11:41:20.183Z"
             }
           ]
         }

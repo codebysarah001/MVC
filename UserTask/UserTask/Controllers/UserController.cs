@@ -19,6 +19,24 @@ namespace UserTask.Controllers
             return View();
         }
 
+        //[HttpGet]
+        //public ActionResult Register()
+        //{
+        //    return View();
+        //}
+
+        //[HttpPost]
+        //public ActionResult Register([Bind(Include = "UserEmail,UserPassword,ConfirmPassword")] User user)
+        //{
+        //    if (ModelState.IsValid && (user.ConfirmPassword == user.UserPassword))
+        //    {
+        //        db.Users.Add(user);
+        //        db.SaveChanges();
+        //        return RedirectToAction("Login");
+        //    }
+        //    return View(user);
+        //}
+
         [HttpGet]
         public ActionResult Register()
         {
@@ -26,9 +44,9 @@ namespace UserTask.Controllers
         }
 
         [HttpPost]
-        public ActionResult Register([Bind(Include = "UserEmail,UserPassword,ConfirmPassword")] User user)
+        public ActionResult Register([Bind(Include ="UserEmail, UserPassword, ConfirmPassword")] User user)
         {
-            if (ModelState.IsValid && (user.ConfirmPassword == user.UserPassword))
+            if(ModelState.IsValid && (user.ConfirmPassword == user.UserPassword))
             {
                 db.Users.Add(user);
                 db.SaveChanges();
@@ -37,6 +55,7 @@ namespace UserTask.Controllers
             return View(user);
         }
 
+        [HttpGet]
         public ActionResult Login()
         {
             return View();
@@ -45,18 +64,37 @@ namespace UserTask.Controllers
         [HttpPost]
         public ActionResult Login(User user)
         {
-            var r = db.Users.Where(model => model.UserEmail == user.UserEmail && model.UserPassword == user.UserPassword).FirstOrDefault();
-            bool isValid = false;
-
-            if (r != null)
             {
-                ViewBag.isValid = true;
-                Session["Userid"] = r.UsersID;
-                return View("Index");
+                var r = db.Users.Where(model => model.UserEmail == user.UserEmail && model.UserPassword == user.UserPassword).FirstOrDefault();
+                bool isValid = false;
+
+                if (r != null)
+                {
+                    ViewBag.IsValid = true;
+                    Session["Userid"] = r.UsersID;
+                    return View("Index");
+                }
             }
 
             return View();
+
         }
+
+        //[HttpPost]
+        //public ActionResult Login(User user)
+        //{
+        //    var r = db.Users.Where(model => model.UserEmail == user.UserEmail && model.UserPassword == user.UserPassword).FirstOrDefault();
+        //    bool isValid = false;
+
+        //    if (r != null)
+        //    {
+        //        ViewBag.isValid = true;
+        //        Session["Userid"] = r.UsersID;
+        //        return View("Index");
+        //    }
+
+        //    return View();
+        //}
 
         public ActionResult Profile()
         {
@@ -94,7 +132,7 @@ namespace UserTask.Controllers
            
         }
 
-        public ActionResult ResetPasswordt()
+        public ActionResult ResetPassword()
         {
             var userID = (int)Session["Userid"];
             var user = db.Users.Find(userID);

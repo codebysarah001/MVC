@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "AddProduct";
+}
+
+<h2>AddProduct</h2>
+
+<hr />
+
+@using (Html.BeginForm("AddProduct", "Admin", FormMethod.Post))
+{
+    <div>
+        <label for="ProductName">Product Name :</label>
+        <input type="text" name="ProductName" required />
+    </div>
+    <br />
+
+    <div>
+        <label for="ProductPrice">Price :</label>
+        <input type="number" name="Price" required />
+    </div>
+    <br />
+
+
+    <div>
+        <label for="ProductImage">Product Image :</label>
+        <input type="text" name="ProductImage" required />
+    </div>
+    <br />
+
+
+    <div>
+        <input type="submit" value="Add Product" />
+    </div>
+}

@@ -1,0 +1,18 @@
+﻿@model MiniProject2.Models.Products
+
+@using (Html.BeginForm("AddProduct", "Admin", FormMethod.Post))
+{
+    <div>
+        <label for="ProductName">Product Name:</label>
+        @Html.TextBoxFor(m => m.ProductName)
+    </div>
+    <div>
+        <label for="Price">Price:</label>
+        @Html.TextBoxFor(m => m.Price)
+    </div>
+    <div>
+        <label for="ProductImage">Product Image:</label>
+        @Html.TextBoxFor(m => m.ProductImage)
+    </div>
+    <button type="submit">Add Product</button>
+}

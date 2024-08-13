@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MiniShop3.Models.Product>
+
+<h2>Shop</h2>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>
+            <strong>@product.Product_Name</strong> - @product.Product_Price
+            <br />
+            <img src="@product.Product_Image" alt="Product Image" width="100" />
+        </li>
+    }
+</ul>

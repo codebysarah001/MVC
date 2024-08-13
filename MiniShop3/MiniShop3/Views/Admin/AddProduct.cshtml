@@ -1,0 +1,18 @@
+﻿@model MiniShop3.Models.Product
+
+@using (Html.BeginForm("AddProduct", "Admin", FormMethod.Post))
+{
+    <div>
+        <label for="ProductName">Product Name:</label>
+        @Html.TextBoxFor(m => m.Product_Name)
+    </div>
+    <div>
+        <label for="Price">Price:</label>
+        @Html.TextBoxFor(m => m.Product_Price)
+    </div>
+    <div>
+        <label for="ProductImage">Product Image:</label>
+        @Html.TextBoxFor(m => m.Product_Image)
+    </div>
+    <button type="submit">Add Product</button>
+}
