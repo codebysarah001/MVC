@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|solutionrelative:users\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\users\\users\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|solutionrelative:users\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Users\\users\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|solutionrelative:users\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\users\\users\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|solutionrelative:users\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52CB478F-69C6-4CD6-AA7F-8A9DB23A5532}|Users\\Users.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Users\\users\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Users\\Users\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Users\\Views\\Shared\\_Layout.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Users\\Users\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Users\\Controllers\\HomeController.cs",
@@ -91,7 +91,8 @@
               "RelativeToolTip": "Users\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:28:03.234Z"
+              "WhenOpened": "2024-07-29T08:28:03.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,7 +114,7 @@
               "RelativeDocumentMoniker": "Users\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\Users\\Users\\Controllers\\UserController.cs",
               "RelativeToolTip": "Users\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T09:07:51.967Z",
               "EditorCaption": ""

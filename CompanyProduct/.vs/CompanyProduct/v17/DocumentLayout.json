@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\companyproduct\\companyproduct\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|solutionrelative:companyproduct\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F35E6C25-192C-4CEA-A3CF-3C6F0C83573F}|CompanyProduct\\CompanyProduct.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\companyproduct\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\CompanyProduct\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "CompanyProduct\\Views\\Products\\Index.cshtml",
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\CompanyProduct\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "CompanyProduct\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\CompanyProduct\\CompanyProduct\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "CompanyProduct\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T08:46:16.886Z",
               "EditorCaption": ""
